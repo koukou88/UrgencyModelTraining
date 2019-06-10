@@ -1,0 +1,1359 @@
+;text;label;label_id
+0;request urgent;urgent;0
+1;request import;urgent;0
+2;request realli urgent;urgent;0
+3;request realli import;urgent;0
+4;must complet mission now;urgent;0
+5;must complet mission now;urgent;0
+6;must complet mission right now;urgent;0
+7;must complet mission instantli;urgent;0
+8;must complet mission fast;urgent;0
+9;must complet mission fast;urgent;0
+10;must complet mission right now;urgent;0
+11;must complet mission instantli;urgent;0
+12;must complet mission fast;urgent;0
+13;must complet mission fast;urgent;0
+14;must complet mission now urgent;urgent;0
+15;must complet mission now urgent;urgent;0
+16;must prepar work immedi;urgent;0
+17;must prepar work right now;urgent;0
+18;must prepar work instantli;urgent;0
+19;must prepar work fast;urgent;0
+20;must prepar work minut;urgent;0
+21;must prepar work immedi;urgent;0
+22;must prepar work right now;urgent;0
+23;must prepar work instantli;urgent;0
+24;must prepar work fast;urgent;0
+25;must prepar work minut;urgent;0
+26;prepar work immedi;urgent;0
+27;prepar work right now;urgent;0
+28;prepar work instantli;urgent;0
+29;prepar work fast;urgent;0
+30;prepar work minut;urgent;0
+31;prepar work immedi;urgent;0
+32;prepar work right now;urgent;0
+33;prepar work instantli;urgent;0
+34;prepar work fast;urgent;0
+35;prepar work minut;urgent;0
+36;need paper quickli;urgent;0
+37;need paper fast;urgent;0
+38;need paper now;urgent;0
+39;need paper right now;urgent;0
+40;need paper immedi;urgent;0
+41;need paper instantli;urgent;0
+42;need paper urgent;urgent;0
+43;need paper import;urgent;0
+44;must provid product now;urgent;0
+45;must provid product right now;urgent;0
+46;must provid product immedi;urgent;0
+47;must provid product hurri;urgent;0
+48;must provid product hurri;urgent;0
+49;must provid product fast;urgent;0
+50;must provid product fast;urgent;0
+51;give headphon instantli;urgent;0
+52;give headphon immedi;urgent;0
+53;give headphon now;urgent;0
+54;give headphon right now;urgent;0
+55;must pai bill now;urgent;0
+56;must pai bill now;urgent;0
+57;must pai bill right now;urgent;0
+58;must pai bill right now;urgent;0
+59;must pai bill immedi;urgent;0
+60;must pai bill immedi;urgent;0
+61;need credit card immedi;urgent;0
+62;need credit card now;urgent;0
+63;need credit card right now;urgent;0
+64;need credit card instantli;urgent;0
+65;want credit card immedi;urgent;0
+66;want credit card now;urgent;0
+67;want credit card right now;urgent;0
+68;want credit card instantli;urgent;0
+69;must give credit card immedi;urgent;0
+70;must give credit card now;urgent;0
+71;must give credit card right now;urgent;0
+72;must give credit card instantli;urgent;0
+73;need help pleas complet call now;urgent;0
+74;need help pleas complet call right now;urgent;0
+75;need help pleas complet call fast;urgent;0
+76;need help pleas complet call soon possibl;urgent;0
+77;need help pleas complet call fast;urgent;0
+78;need help pleas finish call now;urgent;0
+79;need help pleas finish call right now;urgent;0
+80;need help pleas finish call fast;urgent;0
+81;need help pleas finish call fast;urgent;0
+82;need help pleas finish call soon possibl;urgent;0
+83;need help someth pleas complet call now;urgent;0
+84;need help someth pleas complet call right now;urgent;0
+85;need help someth pleas complet call fast;urgent;0
+86;need help someth pleas complet call fast;urgent;0
+87;need help someth pleas complet call soon possibl;urgent;0
+88;need help someth pleas finish call now;urgent;0
+89;need help someth pleas finish call right now;urgent;0
+90;need help someth pleas finish call fast;urgent;0
+91;need help someth pleas finish call fast;urgent;0
+92;need help someth pleas finish call soon possibl;urgent;0
+93;print sheet instantli;urgent;0
+94;print sheet immedi;urgent;0
+95;print sheet now;urgent;0
+96;print sheet right now;urgent;0
+97;print sheet hurri;urgent;0
+98;print sheet hurri;urgent;0
+99;print sheet soon possibl;urgent;0
+100;need help immedi;urgent;0
+101;need help instantli;urgent;0
+102;need help now;urgent;0
+103;need help right now;urgent;0
+104;need help fast;urgent;0
+105;need help fast;urgent;0
+106;want help immedi;urgent;0
+107;want help instantli;urgent;0
+108;want help now;urgent;0
+109;want help right now;urgent;0
+110;want help fast;urgent;0
+111;want help fast;urgent;0
+112;call hospit now;urgent;0
+113;call hospit right now;urgent;0
+114;call hospit immedi;urgent;0
+115;call hospit hurri;urgent;0
+116;call hospit hurri;urgent;0
+117;call polic now;urgent;0
+118;call polic right now;urgent;0
+119;call polic immedi;urgent;0
+120;call polic instantli;urgent;0
+121;must give answer now;urgent;0
+122;must give answer right now;urgent;0
+123;must give answer immedi;urgent;0
+124;must give answer fast;urgent;0
+125;must give answer fast;urgent;0
+126;must give answer soon possibl;urgent;0
+127;should work immedi;urgent;0
+128;should work now;urgent;0
+129;should work right now;urgent;0
+130;should work fast;urgent;0
+131;should work fast;urgent;0
+132;should work instantli;urgent;0
+133;must work immedi;urgent;0
+134;must work now;urgent;0
+135;must work right now;urgent;0
+136;must work fast;urgent;0
+137;must work fast;urgent;0
+138;must work instantli;urgent;0
+139;need hospit instantli;urgent;0
+140;need hospit immedi;urgent;0
+141;need hospit now;urgent;0
+142;need hospit right now;urgent;0
+143;need hospit fast;urgent;0
+144;need hospit fast;urgent;0
+145;need hospit hurri;urgent;0
+146;need hospit hurri;urgent;0
+147;need hospit soon possibl;urgent;0
+148;bo demand work instantli;urgent;0
+149;bo demand work immedi;urgent;0
+150;bo demand work now;urgent;0
+151;bo demand work right now;urgent;0
+152;bo demand work instantli;urgent;0
+153;bo demand work immedi;urgent;0
+154;bo demand work now;urgent;0
+155;bo demand work right now;urgent;0
+156;want extract paper now;urgent;0
+157;want extract paper right now;urgent;0
+158;want extract paper fast;urgent;0
+159;want extract paper fast;urgent;0
+160;want extract paper immedi;urgent;0
+161;must charg batteri instantli;urgent;0
+162;must charg batteri immedi;urgent;0
+163;must charg batteri now;urgent;0
+164;must charg batteri right now;urgent;0
+165;must charg batteri instantli;urgent;0
+166;must charg batteri immedi;urgent;0
+167;must charg batteri now;urgent;0
+168;must charg batteri right now;urgent;0
+169;must charg batteri instantli;urgent;0
+170;must charg batteri immedi;urgent;0
+171;must charg batteri now;urgent;0
+172;must charg batteri right now;urgent;0
+173;charg batteri instantli;urgent;0
+174;charg batteri immedi;urgent;0
+175;charg batteri now;urgent;0
+176;charg batteri right now;urgent;0
+177;should repair car immedi;urgent;0
+178;must repair car immedi;urgent;0
+179;repair car immedi;urgent;0
+180;should repair car now;urgent;0
+181;should repair car right now;urgent;0
+182;should repair car instantli;urgent;0
+183;must repair car now;urgent;0
+184;must repair car right now;urgent;0
+185;must repair car instantli;urgent;0
+186;repair car instantli;urgent;0
+187;repair car now;urgent;0
+188;repair car right now;urgent;0
+189;must complet work now;urgent;0
+190;must complet work now;urgent;0
+191;must complet work now;urgent;0
+192;must complet work now;urgent;0
+193;must complet work now;urgent;0
+194;mom want finish busi now;urgent;0
+195;dad want finish busi now;urgent;0
+196;need repair motorcycl now;urgent;0
+197;need repair motorcycl right now;urgent;0
+198;need repair motorcycl fast;urgent;0
+199;need repair motorcycl fast;urgent;0
+200;good case excel valu;noturgent;1
+201;great jawbon;noturgent;1
+202;tie charger convers last minut major problem;noturgent;1
+203;mic great;noturgent;1
+204;giggl plug get line right get decent volum;noturgent;1
+205;sever dozen sever hundr contact imagin fun send on on;noturgent;1
+206;razor owner must;noturgent;1
+207;needl sai wast monei;noturgent;1
+208;wast monei time;noturgent;1
+209;sound qualiti great;noturgent;1
+210;impress origin batteri extend batteri;noturgent;1
+211;two separ mere start notic excess static marbl sound headset;noturgent;1
+212;good qualiti though;noturgent;1
+213;design odd ear clip not comfort;noturgent;1
+214;highli recommend on blue tooth phone;noturgent;1
+215;advis everyon not fool;noturgent;1
+216;far good;noturgent;1
+217;work great;noturgent;1
+218;click place wai make wonder long mechan would last;noturgent;1
+219;motorola webster follow direct could not get pair;noturgent;1
+220;bui us kindl fire absolut love;noturgent;1
+221;commerci mislead;noturgent;1
+222;yet run new batteri two bar three dai without charg;noturgent;1
+223;bui mother problem batteri;noturgent;1
+224;great pocket phone combin;noturgent;1
+225;ev phone month now sai best mobil phone ev;noturgent;1
+226;not think instruct provid help;noturgent;1
+227;peopl couldnt hear talk pull earphon talk phone;noturgent;1
+228;not hold charg;noturgent;1
+229;simpl littl phone us breakag unaccept;noturgent;1
+230;product ideal peopl like whose ear sensit;noturgent;1
+231;unus move car freewai speed;noturgent;1
+232;two year leav contract hate phone;noturgent;1
+233;car charger well charger includ make sure never run juic highi recommend;noturgent;1
+234;need least min get phone book time first turn phone batteri life short;noturgent;1
+235;keep well;noturgent;1
+236;poor talk time perform;noturgent;1
+237;case great work fine 680;noturgent;1
+238;worthless product;noturgent;1
+239;great camera that pic nice clear great pictur qualiti;noturgent;1
+240;not impress product;noturgent;1
+241;nice headset price right;noturgent;1
+242;hear garbag audio;noturgent;1
+243;excel bluetooth headset;noturgent;1
+244;featur want;noturgent;1
+245;right mind gon bui batteri;noturgent;1
+246;argu version regard drop call return phone two dai;noturgent;1
+247;case seem well make;noturgent;1
+248;disappoint batteri;noturgent;1
+249;not loud enough not turn like should;noturgent;1
+250;good protect not make phone bulki;noturgent;1
+251;usabl keyboard actual turn pda real world us machin instead neat gadget;noturgent;1
+252;phone pretti sturdi ev never larg problem;noturgent;1
+253;love thing;noturgent;1
+254;everyth fine reason price i e;noturgent;1
+255;disappoint;noturgent;1
+256;even drop phone stream submerg second still work great;noturgent;1
+257;happi 510 complaint on regard sound qualiti end;noturgent;1
+258;button bad;noturgent;1
+259;essenti forget microsoft tech support;noturgent;1
+260;realli recommend facepl sinc look nice eleg cool;noturgent;1
+261;headphon great find think perhap best purchas ev make last sever year serious;noturgent;1
+262;bui differ phone not;noturgent;1
+263;hold phone particular angl parti hear clearli;noturgent;1
+264;on big drawback player button phone front cover let paus skip song lock second;noturgent;1
+265;week later activ suddenli die;noturgent;1
+266;feel comfort headset wear glass get wai sometim;noturgent;1
+267;great pod;noturgent;1
+268;devic great sever situat;noturgent;1
+269;mic not work;noturgent;1
+270;even bmw seri fairli quiet troubl hear person sai;noturgent;1
+271;great choic;noturgent;1
+272;nice dock station home work;noturgent;1
+273;beauti phone;noturgent;1
+274;love product;noturgent;1
+275;not bui 807 wrongli advertis 807;noturgent;1
+276;great littl item;noturgent;1
+277;love phone handi lot featur;noturgent;1
+278;purchas within dai longer work;noturgent;1
+279;wear everydai hold well;noturgent;1
+280;not good bargain;noturgent;1
+281;well packag arriv time work intend;noturgent;1
+282;batteri run quickli;noturgent;1
+283;item work great break month us;noturgent;1
+284;headset easi us everyon love;noturgent;1
+285;phone work great;noturgent;1
+286;construct headset poor;noturgent;1
+287;product excel work better version on boi cheaper;noturgent;1
+288;phone load super;noturgent;1
+289;product cost much on expect work far better greater eas thing;noturgent;1
+290;make sturdi;noturgent;1
+291;work great;noturgent;1
+292;ear bud plai music on ear;noturgent;1
+293;dont wast monei;noturgent;1
+294;order;noturgent;1
+295;plan us car forget;noturgent;1
+296;find product wai big;noturgent;1
+297;best ev find far ev try bluetooth on best qualiti listen well eas us;noturgent;1
+298;disappoint decis;noturgent;1
+299;integr seamlessli motorola razor phone;noturgent;1
+300;buyer bewar could flush monei right toilet;noturgent;1
+301;definit bargain;noturgent;1
+302;price good free ship good purchas;noturgent;1
+303;receiv supposedli new motorola 375 appar not match phone charger;noturgent;1
+304;pro good camera nice pictur also cool style like black white;noturgent;1
+305;huge design flaw unless not us correctli not think case;noturgent;1
+306;love 350 headset cabra 350 bluetooth headset great recept good ear piec comfort fit;noturgent;1
+307;purchas car charger not work;noturgent;1
+308;sound qualiti end excel us headset call wife ask wife us headset call;noturgent;1
+309;phone slim light displai beauti;noturgent;1
+310;camera although rat impress 1 3 megapixel render imag fall well expect rel high resolut;noturgent;1
+311;great product fast ship;noturgent;1
+312;absolut great;noturgent;1
+313;keyboard nice compromis full qwerti basic cell phone number keypad;noturgent;1
+314;get phone around end mai complet unhappi;noturgent;1
+315;comfort ear;noturgent;1
+316;winner;noturgent;1
+317;setup could not simpler;noturgent;1
+318;ev try sever differ earpiec cell phone cabra on first on ev find fit ear comfort;noturgent;1
+319;could not get strong enough signal;noturgent;1
+320;pleas purchas;noturgent;1
+321;bad qualiti;noturgent;1
+322;get job;noturgent;1
+323;great audio;noturgent;1
+324;basic servic bad;noturgent;1
+325;not work cell phone plug set charger;noturgent;1
+326;ev bluetooth week realli like;noturgent;1
+327;headset disappoint;noturgent;1
+328;small not even realiz get us;noturgent;1
+329;accompani softwar almost brilliant;noturgent;1
+330;headset work great packag nice avoid damag;noturgent;1
+331;definit recommend;noturgent;1
+332;buyer care;noturgent;1
+333;major logitech earn headset fail;noturgent;1
+334;good stuff price;noturgent;1
+335;headset work peachi keen;noturgent;1
+336;hous get drop coverag upstair coverag basement;noturgent;1
+337;voic recognit tremend;noturgent;1
+338;wast;noturgent;1
+339;sever differ minut call experi drop area bar;noturgent;1
+340;not happi item;noturgent;1
+341;disappoint;noturgent;1
+342;phone take forev charg like hour liter;noturgent;1
+343;get phone recommend rel glad;noturgent;1
+344;wast time;noturgent;1
+345;recept poor;noturgent;1
+346;item state includ descript not includ;noturgent;1
+347;month screen black sudden;noturgent;1
+348;hop;noturgent;1
+349;audio qualiti poor poor;noturgent;1
+350;absolut problem headset link 8530 blackberri curv;noturgent;1
+351;know sound funni seem like sketchi technolog would not work helliwel on work great;noturgent;1
+352;ev bui wire headphon sound better;noturgent;1
+353;phone fast send kind messag web brows significantli faster previou phone us;noturgent;1
+354;nice qualiti build unlik cheap f;noturgent;1
+355;item fantast work perfectli;noturgent;1
+356;love color;noturgent;1
+357;1810 superb;noturgent;1
+358;whine internet goeth us thing like;noturgent;1
+359;great charger;noturgent;1
+360;essenti commun tool not commun;noturgent;1
+361;work like charm work on get phone;noturgent;1
+362;still maintain monkei should not make headphon obvious not share enough dna copi design human;noturgent;1
+363;great valu;noturgent;1
+364;not work bought not work;noturgent;1
+365;look sharp screen nice clear great graphic;noturgent;1
+366;not last long;noturgent;1
+367;on thing hate mode set button side;noturgent;1
+368;excel servic;noturgent;1
+369;thank wast monei;noturgent;1
+370;audio qualiti poor;noturgent;1
+371;charger tip realli great;noturgent;1
+372;file browser offer option on need handsfre great;noturgent;1
+373;superb phone great network;noturgent;1
+374;connect wife bluetooth motorola s80 phone work like charm whether phone pocket case;noturgent;1
+375;put latest 1 15 now like slow crawl lock everi;noturgent;1
+376;recogn phone storag devic;noturgent;1
+377;like loud buzz overrid convers phone;noturgent;1
+378;not bui product;noturgent;1
+379;ev bluetooth headset time now still not comfort wai fit ear;noturgent;1
+380;sound qualiti good function awesom;noturgent;1
+381;phone thorn side realli abhor;noturgent;1
+382;recent problem could not stai connect minut disconnect;noturgent;1
+383;incred;noturgent;1
+384;design flaw;noturgent;1
+385;great phone;noturgent;1
+386;wast buck;noturgent;1
+387;check voic mail night keypad backlight turn second first messag lose;noturgent;1
+388;replac die week;noturgent;1
+389;ring tone overal good phone bui;noturgent;1
+390;late extrem nice help phone;noturgent;1
+391;problem wit hit drop signal;noturgent;1
+392;not impress;noturgent;1
+393;light weight hardli notic;noturgent;1
+394;love thin;noturgent;1
+395;bad choic;noturgent;1
+396;leather case not fit;noturgent;1
+397;useless phone simpli deaf;noturgent;1
+398;color even prettier think would graphic incred sharp;noturgent;1
+399;think good invest;noturgent;1
+400;make strang tick nois end call;noturgent;1
+401;best electron avail transmitt;noturgent;1
+402;batteri last hour;noturgent;1
+403;great headset impress 8500;noturgent;1
+404;1 2 mega pixel camera part phone reason good;noturgent;1
+405;ev nearli year work great;noturgent;1
+406;good transmit audio;noturgent;1
+407;send back;noturgent;1
+408;not bother contact compani dollar product learn lesson should not bui form onlin anywai;noturgent;1
+409;hate barbuda avoid phone mean;noturgent;1
+410;great price also;noturgent;1
+411;rang decent ev abl roam around hous phone live room recept sound qualiti issu;noturgent;1
+412;fast servic;noturgent;1
+413;would highli recommend;noturgent;1
+414;would recommend;noturgent;1
+415;also not like button felt like would crack us;noturgent;1
+416;worst phone ever;noturgent;1
+417;still infatu phone;noturgent;1
+418;freez frequent;noturgent;1
+419;kind embarrass us look mostli embarrass child like compani;noturgent;1
+420;simpl lightweight great fit;noturgent;1
+421;expect better consum experi motorola;noturgent;1
+422;horribl tick sound background call never experi;noturgent;1
+423;certainli comfort function decent;noturgent;1
+424;usual not like headband on lightweight not mess hair;noturgent;1
+425;bite disappoint;noturgent;1
+426;phone year now tell not great;noturgent;1
+427;order soni ericsson 1810 think work that first us;noturgent;1
+428;batteri complet useless;noturgent;1
+429;big wast time;noturgent;1
+430;not wast on;noturgent;1
+431;great sound servic;noturgent;1
+432;great sound servic;noturgent;1
+433;on favorit purchas ever;noturgent;1
+434;best bluetooth market;noturgent;1
+435;need now servic rush;urgent;0
+436;authent leather nice shine comfort recommend case;noturgent;1
+437;excit get headset think realli cute;noturgent;1
+438;not make mistak;noturgent;1
+439;big disappoint calendar sync;noturgent;1
+440;phone unus not new;noturgent;1
+441;worst custom servic ever;noturgent;1
+442;addit ear gel provid instruct whatsoev;noturgent;1
+443;defeat purpos bluetooth headset;noturgent;1
+444;worth everi penni;noturgent;1
+445;excel wallet type phone case;noturgent;1
+446;nice headphon price work great;noturgent;1
+447;internet excruciatingli slow;noturgent;1
+448;comfort wear well probabl import aspect us case;noturgent;1
+449;fit like glove strong secur durabl;noturgent;1
+450;gosh best phone ever;noturgent;1
+451;attract appear good qualiti;noturgent;1
+452;love featur form factor;noturgent;1
+453;product strong rubber petroleum smell unbear caus return;noturgent;1
+454;poor qualiti servic;noturgent;1
+455;cabl look thin flimsi scari;noturgent;1
+456;great earpiec;noturgent;1
+457;excel hand free tool;noturgent;1
+458;great us home stereo;noturgent;1
+459;good product incred valu;noturgent;1
+460;month work flawlessli far;noturgent;1
+461;work great;noturgent;1
+462;absolut junk;noturgent;1
+463;on not work either;noturgent;1
+464;batteri life real good;noturgent;1
+465;return hour later;noturgent;1
+466;great item;noturgent;1
+467;not wast monei;noturgent;1
+468;love headset;noturgent;1
+469;not drain player mai also potenti fry;noturgent;1
+470;work perfectli;noturgent;1
+471;unreli give;noturgent;1
+472;give star sound qualiti;noturgent;1
+473;avoid on;noturgent;1
+474;revers plug work great;noturgent;1
+475;wast littl monei earpiec;noturgent;1
+476;good phone;noturgent;1
+477;decept fraud sue;noturgent;1
+478;best rotat featur help;noturgent;1
+479;comfort whole famili;noturgent;1
+480;good product good seller;noturgent;1
+481;love bluetooth;noturgent;1
+482;first not wear well;noturgent;1
+483;impress headset plantron;noturgent;1
+484;get small ador;noturgent;1
+485;great phone;noturgent;1
+486;would not recommend bui product;noturgent;1
+487;piec junk;noturgent;1
+488;poorli construct hing;noturgent;1
+489;item great instal let charg overtim work good everi sinc problem;noturgent;1
+490;great phone;noturgent;1
+491;not bui;noturgent;1
+492;excel phone;noturgent;1
+493;not chang servic not recommend product;noturgent;1
+494;not purchas phone;noturgent;1
+495;voic recognit thru handset excel;noturgent;1
+496;hand best phone ev ever;noturgent;1
+497;work great cat attack phone scratch protect strip instead destroi screen;noturgent;1
+498;on work price right;noturgent;1
+499;custom servic terribl;noturgent;1
+500;batteri life still not long enough motorola razor;noturgent;1
+501;send back;noturgent;1
+502;now know make wise decis;noturgent;1
+503;someon should invent sooner;noturgent;1
+504;good price;noturgent;1
+505;everyth work first try the devic certainli engin clever wai construct feel good;noturgent;1
+506;receiv quickli work great;noturgent;1
+507;work great;noturgent;1
+508;mani peopl complain find headset microphon weak;noturgent;1
+509;t year old nokia 2160 tracfon hold charg lot better;noturgent;1
+510;not care consum on bite;noturgent;1
+511;good batteri get realli fast;noturgent;1
+512;instruct manual lack;noturgent;1
+513;also slim enough fit alarm clock dock station without remov case;noturgent;1
+514;phone now hold charg like new;noturgent;1
+515;batteri unreli well servic us antenna;noturgent;1
+516;uncomfort sound qualiti quit poor compar phone razor previou wire headset plug;noturgent;1
+517;get lot compliment;noturgent;1
+518;definit must state not allow cell phone usag drive;noturgent;1
+519;want monei back;noturgent;1
+520;love devic;noturgent;1
+521;also happi price;noturgent;1
+522;order product first unhappi immedi;noturgent;1
+523;engag still lack barbuda;noturgent;1
+524;abl voic dial car problem;noturgent;1
+525;23 bar cell phone home cant not hear anyth;noturgent;1
+526;good item low price;noturgent;1
+527;howev the inton not best neither game;noturgent;1
+528;plug not work well;noturgent;1
+529;amazon suck;noturgent;1
+530;rip charg ship;noturgent;1
+531;comfort;noturgent;1
+532;batteri work well replac origin come phone year ago;noturgent;1
+533;recept excel;noturgent;1
+534;fit comfort either ear sound clear loud charg last coupl dai;noturgent;1
+535;clear qualiti sound not mess sound pod sinc sound button headset;noturgent;1
+536;long last batteri not recharg frequent flip phone;noturgent;1
+537;obvious problem adhes;noturgent;1
+538;disappoint;noturgent;1
+539;inexpens piec would still expect better qualiti;noturgent;1
+540;practic useless not add kind boost recept bui;noturgent;1
+541;excel sound qualiti;noturgent;1
+542;not happi;noturgent;1
+543;piec junk break phone dai;noturgent;1
+544;new batteri work great phone;noturgent;1
+545;worst custom servic;noturgent;1
+546;ev drop phone time sai even concret phone still great knock wood;noturgent;1
+547;recept terribl full static;noturgent;1
+548;good audio qualiti;noturgent;1
+549;littl devic transform organiz capabl make life whole lot easier;noturgent;1
+550;sit vehicl cradl belt headset lose signal;noturgent;1
+551;jerk phone;noturgent;1
+552;work like charm work advertis;noturgent;1
+553;comfort nice rang good batteri life;noturgent;1
+554;network coverag lo angel horribl;noturgent;1
+555;excel starter wireless headset;noturgent;1
+556;loudspeak option great bumper light appeal;noturgent;1
+557;thing think could improv sound leak headset;noturgent;1
+558;first recept suck never bar ever;noturgent;1
+559;phone get extrem hot;noturgent;1
+560;microphon also work well accord peopl call amplifi everyth;noturgent;1
+561;nice design qualiti;noturgent;1
+562;also phone drop case not save special drop face;noturgent;1
+563;light easi us clear recept transmiss;noturgent;1
+564;bad fit wai big;noturgent;1
+565;definit not good s11;noturgent;1
+566;wast monei;noturgent;1
+567;order motorola data cabl get well finish work product;noturgent;1
+568;love phone;noturgent;1
+569;look headset long time now ev get could not happier;noturgent;1
+570;drive along headset start ring reason;noturgent;1
+571;displai excel camera good year;noturgent;1
+572;batteri life also great;noturgent;1
+573;worst phone ev ever month;noturgent;1
+574;not good item work start problem auto revers tape player;noturgent;1
+575;embarrass also ear hurt try push ear plug ear;noturgent;1
+576;protect phone side;noturgent;1
+577;averag phone bad batteri life oper weak network;noturgent;1
+578;clear skye call long batteri life long rang;noturgent;1
+579;solo technolog suck;noturgent;1
+580;great hand free devic;noturgent;1
+581;even take self portrait outsid exterior displai cool;noturgent;1
+582;problem other mention;noturgent;1
+583;try mani mani handsfre gadget on final work well;noturgent;1
+584;magic help;noturgent;1
+585;worst piec crap ever along version custom servic;noturgent;1
+586;poor sound qualiti;noturgent;1
+587;best phone market;noturgent;1
+588;work well;noturgent;1
+589;compani ship product promptli work well;noturgent;1
+590;exactli want;noturgent;1
+591;great deal;noturgent;1
+592;excel product satisfi purchas;noturgent;1
+593;highli recommend encourag peopl give try;noturgent;1
+594;better would expect;noturgent;1
+595;us earpiec leav right thing not stai ear;noturgent;1
+596;great product price;noturgent;1
+597;sound good reason price effect simpl;noturgent;1
+598;disappoint;noturgent;1
+599;prompt servic;noturgent;1
+600;excel product price;noturgent;1
+601;pleas headset;noturgent;1
+602;not wast monei time;noturgent;1
+603;especi love long batteri life;noturgent;1
+604;stupid keep bui new charger car charger cradl headphon car kit everi time new phone come;noturgent;1
+605;work great;noturgent;1
+606;plantron bluetooth excel bui;noturgent;1
+607;come version singular nicer cell phone first thing notic realli bad servic;noturgent;1
+608;look new earpiec;noturgent;1
+609;look new earpiec jawbon era awesom;noturgent;1
+610;receiv white color batteri dead coupl hour origin us last week still last longer replac;noturgent;1
+611;year batteri complet dead headset;noturgent;1
+612;us sever phone two year on best;noturgent;1
+613;awesom new look fall 2000;noturgent;1
+614;first phone ev cheapli make;noturgent;1
+615;att not clear sound distort yell talk;noturgent;1
+616;price good;noturgent;1
+617;plastic break realli easi clip;noturgent;1
+618;not make mistak;noturgent;1
+619;forget also mention weird color effect phone;noturgent;1
+620;us river spine case fit fine;noturgent;1
+621;also area unit break not fond magnet strap;noturgent;1
+622;overal psych phone appoint contact get great recept;noturgent;1
+623;everi thing phone work perfectli like;noturgent;1
+624;anoth note phone appear realli look rather bland especi black model;noturgent;1
+625;realli easi;noturgent;1
+626;sanyo surviv dozen drop blackton without ill effect;noturgent;1
+627;fantast earphon;noturgent;1
+628;find cell phone right awai enter car;noturgent;1
+629;low qualiti;noturgent;1
+630;angri servic must chang qualiti servic;noturgent;1
+631;get better recept clariti phone ev;noturgent;1
+632;warn stai awai;noturgent;1
+633;wish could return unit get back monei;noturgent;1
+634;awesom devic work great;noturgent;1
+635;us talk r 2 hour batteri would liter drain die;noturgent;1
+636;not find bad unit come on arpad would not recommend anyon;noturgent;1
+637;displeas;noturgent;1
+638;might get defect would not risk bui build qualiti alon;noturgent;1
+639;make case small difficult instal;noturgent;1
+640;restor phone like new perform;noturgent;1
+641;would recommend purchas cabra dc 10 seri work flawlessli moto figur;noturgent;1
+642;search internet find on best valu;noturgent;1
+643;not fit;noturgent;1
+644;happi product;noturgent;1
+645;screen size big kei pad light well enough camera qualiti excel camera phone;noturgent;1
+646;realli noth bad sai headset;noturgent;1
+647;glad find product amazon hard find not high price;noturgent;1
+648;portabl work;noturgent;1
+649;colleagu now get great recept littl expens perform great;noturgent;1
+650;even fulli charg bed turn blue tooth hi fi notic leav morn;noturgent;1
+651;ev also problem phone read memori card alwai turn;noturgent;1
+652;not good wear hat sunglass;noturgent;1
+653;time shipment qualiti product;noturgent;1
+654;nice solid keyboard;noturgent;1
+655;well make fit surefir perfectli;noturgent;1
+656;horribl phone;noturgent;1
+657;batteri junk;noturgent;1
+658;would recommend other;noturgent;1
+659;cant get softwar work comput;noturgent;1
+660;disappoint;noturgent;1
+661;poor voic clariti;noturgent;1
+662;batteri work great;noturgent;1
+663;buyer remors on;noturgent;1
+664;disappoint accessori on;noturgent;1
+665;find inexcus probabl return phone perhap chang carrier;noturgent;1
+666;look great strong;noturgent;1
+667;mobil servic year now pretti happi;noturgent;1
+668;updat procedur difficult cumbersom;noturgent;1
+669;disappoint hate anyth ear;noturgent;1
+670;great softwar motorola;noturgent;1
+671;deliveri time;noturgent;1
+672;easi us;noturgent;1
+673;uncomfort ear not us 79900 env;noturgent;1
+674;volum switch rocket unit destin unknown;noturgent;1
+675;hold charg long time reason comfort long wear condit qualiti sound tremend;noturgent;1
+676;like return;noturgent;1
+677;keyboard realli worthwhil us sturdi enough not expect problem;noturgent;1
+678;servic slow despit fact sai rush;urgent;0
+679;version bill howev difficult understand even though price plan simpl;noturgent;1
+680;charg overnight batteri work great;noturgent;1
+681;not regret;noturgent;1
+682;love phone;noturgent;1
+683;disappoint;noturgent;1
+684;not user friendli;noturgent;1
+685;unfortun abil actual know receiv call rather import featur phone piti respect;noturgent;1
+686;exchang phone even problem;noturgent;1
+687;result phone either stick max volum mute;noturgent;1
+688;pda rock;noturgent;1
+689;super charg us small hybrid palmtop camera cellphon excel role;noturgent;1
+690;would definit recommend cabra tk50 look comfort clariti great price;noturgent;1
+691;version year ago realli like servic;noturgent;1
+692;pretti piec junk;noturgent;1
+693;plug wrong size;noturgent;1
+694;work describ;noturgent;1
+695;save monei ev item month now;noturgent;1
+696;bad purchas;noturgent;1
+697;well satisfi;noturgent;1
+698;bose nois cancel amaz import nec commut;noturgent;1
+699;batteri excel bargain;noturgent;1
+700;defect crap;noturgent;1
+701;would give star abl;noturgent;1
+702;wear glass fit fine;noturgent;1
+703;sound qualiti devic unaccept unless realli quiet area almost hear noth;noturgent;1
+704;would not recommend item anyon;noturgent;1
+705;holster arriv not match photo;noturgent;1
+706;great problem;noturgent;1
+707;earlier review note plug charger noth happen;noturgent;1
+708;frog phone charm ador ey catch;noturgent;1
+709;never know push hard enough right number time function want not;noturgent;1
+710;sound clear peopl talk amaz qualiti;noturgent;1
+711;get aluminum case new palm work realli well protect handheld perfectli far;noturgent;1
+712;good product well make;noturgent;1
+713;mobil phone tool must;noturgent;1
+714;impress job motorola steadi phone;noturgent;1
+715;receiv order well within ship timefram everyth good work order overal excit sourc;noturgent;1
+716;phone sturdi waterproof;noturgent;1
+717;not impress would not recommend item anyon;noturgent;1
+718;complaint standard sound volum littl low even turn;noturgent;1
+719;thank amazon thing need good price;noturgent;1
+720;end slide edg pant back pocket instead;noturgent;1
+721;store bui new nokia phone work great;noturgent;1
+722;work great;noturgent;1
+723;realli ugli;noturgent;1
+724;horribl switch time;noturgent;1
+725;nois shield incred;noturgent;1
+726;real improv;noturgent;1
+727;razor batteri good bui;noturgent;1
+728;keep good work amazon;noturgent;1
+729;refus refund replac;noturgent;1
+730;unfortun easi accident activ gentl touch button accident touch phone face listen;noturgent;1
+731;basic throw monei window noth;noturgent;1
+732;great case price;noturgent;1
+733;take on drop inch kitchen counter crack not impress not laugh;noturgent;1
+734;bluetooth rang good dai ago leav phone trunk get call carri convers without hitch;noturgent;1
+735;small sleek impress look practic setup ampl storag place;noturgent;1
+736;larg channel sound directli ear seem increas sound volum clariti;noturgent;1
+737;none new on ever quit work properli;noturgent;1
+738;glad purchas;noturgent;1
+739;ev miss numer call reason;noturgent;1
+740;perhap phone defect peopl not hear us;noturgent;1
+741;not bui product;noturgent;1
+742;suck stuff not work phone;noturgent;1
+743;shift bubbl peel not even scratch noth could not happier new on droid;noturgent;1
+744;worst softwar ever us could give zero star would;noturgent;1
+745;try make call exercis frustrat;noturgent;1
+746;case flimsi piec plastic front side protect whatsoev;noturgent;1
+747;cabra barset happi sound qualiti especi outdo better;noturgent;1
+748;love camera realli pretti good qualiti;noturgent;1
+749;thank great servic;noturgent;1
+750;total packag;noturgent;1
+751;seller understand patient would definit bui;noturgent;1
+752;give firefli start contact cingular at inform practic;noturgent;1
+753;aggrav;noturgent;1
+754;great product price;noturgent;1
+755;purchas famili friend enjoi clariti eas us;noturgent;1
+756;virgin wireless rock cheap littl phone;noturgent;1
+757;none work not bui;noturgent;1
+758;muddi low qualiti sound case around wire insert poorli super glue slide;noturgent;1
+759;pleas dont wast monei;noturgent;1
+760;quit satisfi purchas;noturgent;1
+761;look good qualiti motorola headset keep look not;noturgent;1
+762;yet plantron continu us flaw charger design;noturgent;1
+763;disappoint result;noturgent;1
+764;cumbersom design;noturgent;1
+765;great new packag nice work good problem come time expect;noturgent;1
+766;great product;noturgent;1
+767;piec crap;noturgent;1
+768;experi terribl fourth bluetooth headset much comfort last cabra hat;noturgent;1
+769;fix problem;noturgent;1
+770;worst ever;noturgent;1
+771;happi;noturgent;1
+772;ev troubl access internet download inton perform function;noturgent;1
+773;bare ever hear constantli sai;noturgent;1
+774;batteri life highli unaccept;noturgent;1
+775;compani joke;noturgent;1
+776;everyth descript sai would;noturgent;1
+777;servic bad close agenc;noturgent;1
+778;due happen everi call forc stop us headset;noturgent;1
+779;work great car charger especi not plug two adapt time;noturgent;1
+780;version tech support walk procedur none work end hard reset wipe data;noturgent;1
+781;voic qualiti signal strength drop call;noturgent;1
+782;plai louder speaker size price low would think qualiti lack howev not;noturgent;1
+783;better expect;noturgent;1
+784;feel poorli construct menu difficult navig button recess difficult push;noturgent;1
+785;batteri hold well;noturgent;1
+786;also difficult put recommend avoid product;noturgent;1
+787;us two dai not alwai easi hear;noturgent;1
+788;get car charger not even week charger break plug start smoke;noturgent;1
+789;sprint terribl custom servic;noturgent;1
+790;link phone without effort;noturgent;1
+791;cool;noturgent;1
+792;easi us;noturgent;1
+793;better new;noturgent;1
+794;possess get junk idea;noturgent;1
+795;piec trash;noturgent;1
+796;pretti good product;noturgent;1
+797;great phone;noturgent;1
+798;price amazon excel product would highli recommend;noturgent;1
+799;research develop divis obvious know;noturgent;1
+800;real killer volum cours break;noturgent;1
+801;phone work fine now;noturgent;1
+802;happi product;noturgent;1
+803;poor construct;noturgent;1
+804;infuri;noturgent;1
+805;overal would recommend phone new walkman;noturgent;1
+806;sprint charg servic;noturgent;1
+807;cheap feel look cheap;noturgent;1
+808;fit ear well comfort;noturgent;1
+809;not work europ asia;noturgent;1
+810;clip belt definit make feel like cent up and come;noturgent;1
+811;like design look cabra ear headset 5020 pretti comfort wear hour dai without pain ear;noturgent;1
+812;amaz quick arriv two origin cell phone batteri fraction price;noturgent;1
+813;worst phone samsung crap crappi samsung 27155 worst ever seen;noturgent;1
+814;charger work week complet stop charg phone;noturgent;1
+815;poor product;noturgent;1
+816;howev need better instruct;noturgent;1
+817;need two hand oper screen thi softwar interfac decad old not compet new softwar design;noturgent;1
+818;work well pair tree 700 skye headset us usb bluetooth transceiv;noturgent;1
+819;steer clear product genuin palm replac pen come three part;noturgent;1
+820;not bui not bui suck;noturgent;1
+821;great product sure beat us finger;noturgent;1
+822;plu serious not believ worth steep price point;noturgent;1
+823;case ev try normal fall apart month on seem long haul;noturgent;1
+824;disappoint perform;noturgent;1
+825;not make mistak pleas not bui phone;noturgent;1
+826;phone might well worst ev ever brand;noturgent;1
+827;case extra origin put later discard scratch ear;noturgent;1
+828;recommend anyon differ brand cell phone mp player famili;noturgent;1
+829;not bother store;noturgent;1
+830;post detail comment grei black phone fire red great color;noturgent;1
+831;not problem item would order need;noturgent;1
+832;get pai guess;noturgent;1
+833;not softwar great job could also make inton form exist without internet connect;noturgent;1
+834;surpris good qualiti car charger not much review;noturgent;1
+835;fabul;noturgent;1
+836;howev headset current not good real time game like first person shooter sinc audio delai mess;noturgent;1
+837;us biopic free program find internet transfer data phone the price cabl excel;noturgent;1
+838;disappoint accessori good manufactur;noturgent;1
+839;perform aw muffl tinni incom sound sever echo end call;noturgent;1
+840;wind resist;noturgent;1
+841;obvious terribl custom servic get pai;noturgent;1
+842;not last forev not overli expens replac easi oper sound much better other try;noturgent;1
+843;contact compani tell although unit still warranti could not produc receipt luck;noturgent;1
+844;link should wai exchang bad phone return unit someth;noturgent;1
+845;phone sturdi nokia bar phone;noturgent;1
+846;great phone;noturgent;1
+847;place tree case not not snug lot extra room side;noturgent;1
+848;pleas;noturgent;1
+849;batteri terribl;noturgent;1
+850;find product easi set us;noturgent;1
+851;earpiec larg heavi keep fall ear;noturgent;1
+852;utter crap sound qualiti terribl;noturgent;1
+853;charger arriv within promis timefram not work;noturgent;1
+854;ear loop need tini sound great;noturgent;1
+855;final three four time spring latch break could not us longer visor;noturgent;1
+856;handsfre part work fine car try download address book tree reboot overal still rate devic high;noturgent;1
+857;talk useless custom servic;noturgent;1
+858;felt light tinni;noturgent;1
+859;not fit palm tungsten break first time try plug;noturgent;1
+860;happi purchas good qualiti low price;noturgent;1
+861;love look feel samsung flip phone;noturgent;1
+862;well design sharp blue nice color;noturgent;1
+863;everyth should;noturgent;1
+864;could not recommend;noturgent;1
+865;nice sound;noturgent;1
+866;look good pictur case huge disappoint;noturgent;1
+867;much jawbon replac;noturgent;1
+868;setup smoothli;noturgent;1
+869;extrem slow take forev anyth;noturgent;1
+870;must studi anyon interest worst sin industri design;noturgent;1
+871;first thing happen track;noturgent;1
+872;well make easi access phone handi detach belt clip;noturgent;1
+873;continu pair period sinc somehow keep drop;noturgent;1
+874;not unload inton third parti;noturgent;1
+875;bluetooth not work phone lock screen flash now make call randomli pocket lock;noturgent;1
+876;truli aw;noturgent;1
+877;work fine motorola 325 cellphon lot better worn out batteri;noturgent;1
+878;none tone accept;noturgent;1
+879;camera color balanc aw;noturgent;1
+880;product clearli not readi prime time not care cool look not tell call come worthless;noturgent;1
+881;love inton upbeat;noturgent;1
+882;chines forgeri abound;noturgent;1
+883;easi pair samsung cell;noturgent;1
+884;instruct not explain microphon jack could us;noturgent;1
+885;would advis not purchas item never work well;noturgent;1
+886;bad pai month servic;noturgent;1
+887;work well;noturgent;1
+888;nokia a 2 usb cabl not work phone;noturgent;1
+889;clear crisp sound;noturgent;1
+890;us smallest earpiec provid stai pretti well;noturgent;1
+891;biggest complaint batteri drain superfast;noturgent;1
+892;design might ergonom theori could not stand ear;noturgent;1
+893;not bui want us holster;noturgent;1
+894;phone also take great pictur even video clip;noturgent;1
+895;not make look cool;noturgent;1
+896;ear occupi background not distract;noturgent;1
+897;comfort fit need headset comfort least hour time not entir dai;noturgent;1
+898;also phone not seem accept anyth except cbr prefer rip window medium player;noturgent;1
+899;not beat price;noturgent;1
+900;come strong light us light camera shot even flash signal serious;noturgent;1
+901;lightweight work well;noturgent;1
+902;bewar;noturgent;1
+903;love cabl allow connect minibu devic;noturgent;1
+904;anyon near hear part convers;noturgent;1
+905;bui phone replac start regret sinc;noturgent;1
+906;appear actual outperform origin batteri china come a325;noturgent;1
+907;not store anyth phone number sim;noturgent;1
+908;last minut actual try us phonem wife phone problem;noturgent;1
+909;poor qualiti;noturgent;1
+910;cabra ear gel best;noturgent;1
+911;not worth;noturgent;1
+912;phone crash complet now get replac;noturgent;1
+913;quit work us month purchas anoth on best headset ev ever;noturgent;1
+914;unfortun not recharg phone despit connect multipl power sourc mac extern batteri wall outlet etc;noturgent;1
+915;great phone;noturgent;1
+916;simpli want small flip phone look elsewher extra bell whistl mediocr;noturgent;1
+917;good valu work fine power via usb car wall outlet;noturgent;1
+918;phone not slide around car now grip prevent phone slip hand;noturgent;1
+919;simpli best bluetooth headset sound qualiti;noturgent;1
+920;think plan on sure last moto phone;noturgent;1
+921;span hour two peopl exclaim whoa new phone;noturgent;1
+922;alwai us cord headset freedom wireless help;noturgent;1
+923;case pa on year mark show sign wear 100 function;noturgent;1
+924;leather nice soft fit tight cut face good shape;noturgent;1
+925;everyth need could not ask;noturgent;1
+926;receiv us product dai break;noturgent;1
+927;product great make work lot easier copier wait hold someth;noturgent;1
+928;none three size send headset would stai ear;noturgent;1
+929;mobil best custom servic anywher;noturgent;1
+930;arriv quickli much expens other sell;noturgent;1
+931;try unit fail within month pro;noturgent;1
+932;provid good protect look classi;noturgent;1
+933;russel alwai good;noturgent;1
+934;tracfon webster user friendli make easi activ etc;noturgent;1
+935;design good;noturgent;1
+936;great recept time;noturgent;1
+937;would highli recommend product;noturgent;1
+938;could not us unit sunglass not good texa;noturgent;1
+939;dit not work time nokia 5320;noturgent;1
+940;bui mainli charger break soon purchas;noturgent;1
+941;like loud buzz overrid convers phone;noturgent;1
+942;fantast bui get whatev next phone;noturgent;1
+943;stai awai store care;noturgent;1
+944;blunt super tooth hand free phone speaker awesom;noturgent;1
+945;not fit;noturgent;1
+946;item arriv quickli work great metro samsung scar 450 slider phone soni premium sound ear plug;noturgent;1
+947;light plenti batteri capac comfort wear somewhat extend period time;noturgent;1
+948;disappoint;noturgent;1
+949;blue ant easi us;noturgent;1
+950;cheap hei work pleasantli supris give low cost item;noturgent;1
+951;camera phone mai us dustpan indoor rather us dispos;noturgent;1
+952;dai later puff smoke come phone us;noturgent;1
+953;conveni simpl us get job make car ride much smoother;noturgent;1
+954;nano state item son disappoint;noturgent;1
+955;sound qualiti excel well;noturgent;1
+956;best headset us;noturgent;1
+957;would not recommend;noturgent;1
+958;around year carri highest qualiti anti slave screen protector find date;noturgent;1
+959;want;noturgent;1
+960;particular model would not work motorola smartphon;noturgent;1
+961;wont work right least;noturgent;1
+962;addit feel amp look phone lightweight cheap plastic;noturgent;1
+963;now warranti problem recur bottom line put monei somewher els singular not support;noturgent;1
+964;realli want plantron 510 right on mani issu metr good;noturgent;1
+965;great product;noturgent;1
+966;crisp clear;noturgent;1
+967;first charg keep dead minut;noturgent;1
+968;cheap plastic creak like old wooden floor;noturgent;1
+969;get absolut horribl recept apart phone not problem;noturgent;1
+970;recept gener good;noturgent;1
+971;excel sound batteri life inconspicu boot;noturgent;1
+972;great bluetooth;noturgent;1
+973;highli recommend case;noturgent;1
+974;worthwhil;noturgent;1
+975;great deal;noturgent;1
+976;phone get year old slowli break despit much care part;noturgent;1
+977;sorri make purchas;noturgent;1
+978;bui hop could make bluetooth headset fit better thing make imposs wear;noturgent;1
+979;tree mobil refus replac forc bui anoth phone without kind upgrad discount;noturgent;1
+980;horribl;noturgent;1
+981;work week break;noturgent;1
+982;not think would hold secur belt;noturgent;1
+983;simpl us like;noturgent;1
+984;great tool entertain commun data manag oh sure us activesync 4 2 optim data synchron result;noturgent;1
+985;not us case smell disgust;noturgent;1
+986;not want;noturgent;1
+987;case would order anoth;noturgent;1
+988;great phone;noturgent;1
+989;bui batteri coupon amazon happi purchas;noturgent;1
+990;internet access fine rare instanc work;noturgent;1
+991;perfect;noturgent;1
+992;five star plu plu;noturgent;1
+993;good qualiti bargain bui bui cheap big lot sound aw peopl end could not hear;noturgent;1
+994;drain;noturgent;1
+995;try talk real loud shout telephon get old still tell not great;noturgent;1
+996;good work fine;noturgent;1
+997;price great deal;noturgent;1
+998;great price;noturgent;1
+999;wind complet useless;noturgent;1
+1000;ye shini front side love;noturgent;1
+1001;not work;noturgent;1
+1002;first think get good deal 7 44 plug phone razor;noturgent;1
+1003;recept headset excel;noturgent;1
+1004;thumb seller;noturgent;1
+1005;version phone work well togeth good recept rang exce foot line sight;noturgent;1
+1006;improp descript return;noturgent;1
+1007;work comfort;noturgent;1
+1008;batteri charg life quit long;noturgent;1
+1009;cabra larg fit ear well;noturgent;1
+1010;batteri life;noturgent;1
+1011;check everywher featur realli disappoint;noturgent;1
+1012;product exactli describ;noturgent;1
+1013;get signal version phone n t;noturgent;1
+1014;not job;noturgent;1
+1015;would recommend;noturgent;1
+1016;plan order;noturgent;1
+1017;sai phone camera nice mani cool effect plai video decent well;noturgent;1
+1018;satisfi cell phone dai on;noturgent;1
+1019;keep get better better third on ev numer palm;noturgent;1
+1020;awkward us unreli;noturgent;1
+1021;ship time also quick;noturgent;1
+1022;not good hop;noturgent;1
+1023;good case;noturgent;1
+1024;not work;noturgent;1
+1025;realli good product;noturgent;1
+1026;unfortun not work;noturgent;1
+1027;three break within two month us;noturgent;1
+1028;dont bui;noturgent;1
+1029;father 0265 batteri die;noturgent;1
+1030;howev ear pad come easili on week lose on;noturgent;1
+1031;call drop phone come screen black worst stop ring intermitt;noturgent;1
+1032;horribl horribl protector;noturgent;1
+1033;not like nokia either;noturgent;1
+1034;reach bottom row uncomfort send end kei not expect;noturgent;1
+1035;bui nokia cell phone week ago nightmar;noturgent;1
+1036;would take long describ bad custom servic experi amazon;noturgent;1
+1037;disappoint thing speakerphon;noturgent;1
+1038;terribl car not accept cassett;noturgent;1
+1039;product useless sinc not enough charg current charg cellphon plan us;noturgent;1
+1040;not sai;noturgent;1
+1041;stai awai;noturgent;1
+1042;us dirti;noturgent;1
+1043;unreli servic mobil;noturgent;1
+1044;not good enough price;noturgent;1
+1045;bui two neither charg;noturgent;1
+1046;look nice;noturgent;1
+1047;excel tool especi pair phone auto answer;noturgent;1
+1048;read review not problem;noturgent;1
+1049;product cover import light sensor ear outlet;noturgent;1
+1050;comfort hand;noturgent;1
+1051;not work;noturgent;1
+1052;poor reliabl;noturgent;1
+1053;work;noturgent;1
+1054;fix phone now urgent argument;urgent;0
+1055;take pictur batteri drop bar start beep let know die;noturgent;1
+1056;terribl product wast monei;noturgent;1
+1057;last time bui;noturgent;1
+1058;wast monei;noturgent;1
+1059;far work like charm;noturgent;1
+1060;week far good;noturgent;1
+1061;case best part download pictur laptop us even send pictur laptop phone;noturgent;1
+1062;would recommend item;noturgent;1
+1063;choic headset year great sound good volum good nois cancel;noturgent;1
+1064;nice case feel good hand;noturgent;1
+1065;item receiv counterfeit;noturgent;1
+1066;realli good far probabl best headset ever;noturgent;1
+1067;work fine;noturgent;1
+1068;receiv headset good time happi;noturgent;1
+1069;pleas see could replac well trail swivel holster blackberri flip;noturgent;1
+1070;sister on also love;noturgent;1
+1071;good qualiti;noturgent;1
+1072;far worst purchas ev make amazon;noturgent;1
+1073;excel dual purpos headset;noturgent;1
+1074;excel;noturgent;1
+1075;not work listen music singular 8125;noturgent;1
+1076;seem complet secur hold belt keep phone insid;noturgent;1
+1077;bottom line anoth worthless cheap gimmick sprint;noturgent;1
+1078;troubl volum;noturgent;1
+1079;good thing fit comfort small ear;noturgent;1
+1080;warn not bui;noturgent;1
+1081;pair phone could not happier far;noturgent;1
+1082;open batteri connect break devic turn;noturgent;1
+1083;not want clip top ear caus discomfort;noturgent;1
+1084;best headset ever;noturgent;1
+1085;need quickli;urgent;0
+1086;not trust webster not expect help support;noturgent;1
+1087;loud glad sai plantron 510 maintain flawless connect cell static normal us;noturgent;1
+1088;speaker low qualiti make ring tone sound cheap;noturgent;1
+1089;fit comfort come three size earn tip;noturgent;1
+1090;excel product price;noturgent;1
+1091;bad recept;noturgent;1
+1092;product high qualiti chines crap;noturgent;1
+1093;quit comfort ear;noturgent;1
+1094;great phone;noturgent;1
+1095;not bui product fail;noturgent;1
+1096;everyth product wrong first;noturgent;1
+1097;pair two devic easi bare take coupl minut start make call voic dial featur;noturgent;1
+1098;utterli confus first caus lose coupl import contact;noturgent;1
+1099;terribl phone holder;noturgent;1
+1100;cutout button place perfectli;noturgent;1
+1101;love abl us on headset landslid cell;noturgent;1
+1102;problem ear loop make weak materi break easili;noturgent;1
+1103;not nearli good look amazon pictur make look;noturgent;1
+1104;despit flaw case except qualiti well worth addit cost offici oem product;noturgent;1
+1105;stupid;noturgent;1
+1106;hear drive car usual not even put loudest set;noturgent;1
+1107;seller ship quickli much cheaper competitor;noturgent;1
+1108;good show samsung;noturgent;1
+1109;bui save lot monei;noturgent;1
+1110;alwai cut make beep beep beep sound sai signal fail;noturgent;1
+1111;could not figur;noturgent;1
+1112;phone sound not great wife phone almost total unintellig could not understand word sai;noturgent;1
+1113;take batteri phone put back togeth restart;noturgent;1
+1114;manag bend leaf spring back place metal now enough stress break next drop;noturgent;1
+1115;leopard print wonderfulli wild;noturgent;1
+1116;work;noturgent;1
+1117;saggi floppi piec junk;noturgent;1
+1118;much better hard plastic case;noturgent;1
+1119;also new problem;noturgent;1
+1120;happi far;noturgent;1
+1121;cool phone;noturgent;1
+1122;work good;noturgent;1
+1123;motorola final get voic qualiti bluetooth headset right;noturgent;1
+1124;loos connect phone even within coupl foot two;noturgent;1
+1125;great would realli recommend;noturgent;1
+1126;make easier keep bluetooth not wear;noturgent;1
+1127;sai pretti useless;noturgent;1
+1128;never get;noturgent;1
+1129;pair headphon worst ever sound wise;noturgent;1
+1130;drain weak snap;noturgent;1
+1131;not charg singular att 8525 phone;noturgent;1
+1132;get extra minut carri call not get cut;noturgent;1
+1133;howev year lipton start get loos wobbl eventu screen black could not receiv place call;noturgent;1
+1134;keep catch cabl seat pull phone turn;noturgent;1
+1135;headset fulfil requir happi purchas;noturgent;1
+1136;logitech bluetooth headset;noturgent;1
+1137;like fact rest lightli ear rather insid;noturgent;1
+1138;lot webster rat good phone;noturgent;1
+1139;try cabl comput pod work fine;noturgent;1
+1140;mic joke volum quit low;noturgent;1
+1141;return;noturgent;1
+1142;not maintain connect comput lap;noturgent;1
+1143;easi turn car volum control quit access;noturgent;1
+1144;mine year christma bui rest famili;noturgent;1
+1145;otherwis easi instal us clear sound;noturgent;1
+1146;nice leather;noturgent;1
+1147;purchas differ case;noturgent;1
+1148;joi us;noturgent;1
+1149;much disappoint compani;noturgent;1
+1150;satisfi;noturgent;1
+1151;not charg;noturgent;1
+1152;phone get 2005 bui s740 sai wow;noturgent;1
+1153;button small;noturgent;1
+1154;read spec alon make sai wow;noturgent;1
+1155;love it great armband;noturgent;1
+1156;realli like product motorola allot clearer ear piec mic;noturgent;1
+1157;howev keypad tinni sometim reach wrong button;noturgent;1
+1158;exchang soni ericson 500 pretti happi decis;noturgent;1
+1159;impress price case;noturgent;1
+1160;also make easier hold;noturgent;1
+1161;us product motor control center lot high voltag hum equip work great;noturgent;1
+1162;pretti easi;noturgent;1
+1163;not make call certain place;noturgent;1
+1164;howev girl complain time phone not wake like normal phone;noturgent;1
+1165;beauti style though;noturgent;1
+1166;compani charg restock fee still not give refund back;noturgent;1
+1167;try return refund;noturgent;1
+1168;plug find not darn thing work;noturgent;1
+1169;excel product;noturgent;1
+1170;fix phone quickli;urgent;0
+1171;earn piec break easili;noturgent;1
+1172;lousi product;noturgent;1
+1173;phone try hard everyth fail abil phone;noturgent;1
+1174;best charger see market yet;noturgent;1
+1175;sweetest phone;noturgent;1
+1176;charger seem work fine;noturgent;1
+1177;fit secur ear hook not even need us sound better direct ear canal;noturgent;1
+1178;not enough volum;noturgent;1
+1179;echo problem unsatisfactori;noturgent;1
+1180;could take video time qualiti poor;noturgent;1
+1181;not wast monei;noturgent;1
+1182;first neg review product;noturgent;1
+1183;charger seem work fine;noturgent;1
+1184;request urgent;urgent;0
+1185;must complet mission now;urgent;0
+1186;must prepar work immedi;urgent;0
+1187;need paper quickli;urgent;0
+1188;must provid product now;urgent;0
+1189;give headphon instantli;urgent;0
+1190;must pai bill now;urgent;0
+1191;need credit card immedi;urgent;0
+1192;need help pleas complet call now;urgent;0
+1193;print sheet instantli;urgent;0
+1194;need help immedi;urgent;0
+1195;call hospit now;urgent;0
+1196;call polic now;urgent;0
+1197;must give answer now;urgent;0
+1198;should work immedi;urgent;0
+1199;need hospit instantli;urgent;0
+1200;need bui drug promptli;urgent;0
+1201;bo demand work instantli;urgent;0
+1202;want extract paper now;urgent;0
+1203;must charg batteri instantli;urgent;0
+1204;should repair car immedi;urgent;0
+1205;must complet work now;urgent;0
+1206;father want repair camera forthwith;urgent;0
+1207;mom want finish busi now;urgent;0
+1208;need repair motorcycl now;urgent;0
+1209;want car immedi;urgent;0
+1210;should repair motorcycl immedi;urgent;0
+1211;municip now solv problem;urgent;0
+1212;must polic immedi solv problem;urgent;0
+1213;health condit requir doctor come immedi;urgent;0
+1214;must call now mechan repair air condit;urgent;0
+1215;need plumber repair toilet now;urgent;0
+1216;mother need phone now;urgent;0
+1217;must repair now;urgent;0
+1218;need servic now;urgent;0
+1219;fire neighborhood must call civil protect immedi;urgent;0
+1220;must reform now;urgent;0
+1221;want garden immedi;urgent;0
+1222;ga leak open window close ga cylind immedi;urgent;0
+1223;must post now;urgent;0
+1224;need paper agenc instantli;urgent;0
+1225;prepar document urgent;urgent;0
+1226;must call custom now;urgent;0
+1227;need drive car now;urgent;0
+1228;extract birth content immedi;urgent;0
+1229;need passport instantli;urgent;0
+1230;must give touch pad now;urgent;0
+1231;must contact custom immedi;urgent;0
+1232;give list product now;urgent;0
+1233;sister want work immedi;urgent;0
+1234;should bank instantli;urgent;0
+1235;want hospit now;urgent;0
+1236;want polic now;urgent;0
+1237;want agenc instantli;urgent;0
+1238;need help promptli;urgent;0
+1239;dad need passport now;urgent;0
+1240;water leak call plumber now;urgent;0
+1241;must quit place now theft;urgent;0
+1242;need electron card instantli;urgent;0
+1243;spot mother phone now;urgent;0
+1244;need fix phone now;urgent;0
+1245;need phone urgent;urgent;0
+1246;want phone right now;urgent;0
+1247;want phone now;urgent;0
+1248;get phone now;urgent;0
+1249;give phone right now;urgent;0
+1250;realli need phone fix fast;urgent;0
+1251;need phone fix right now;urgent;0
+1252;hope fix phone fast;urgent;0
+1253;hurri fix phone;urgent;0
+1254;hurri fix phone;urgent;0
+1255;give back phone now;urgent;0
+1256;help need phone fix now;urgent;0
+1257;help get phone fix fast;urgent;0
+1258;faster fix phone;urgent;0
+1259;hope phone need now;urgent;0
+1260;phone not work anymor fix realli need us right now;urgent;0
+1261;not wait longer want phone immedi;urgent;0
+1262;hurri realli need right now;urgent;0
+1263;fix right awai;urgent;0
+1264;fix right now pleas;urgent;0
+1265;make work fast;urgent;0
+1266;make phone work now;urgent;0
+1267;make wait long give phone fast;urgent;0
+1268;get now;urgent;0
+1269;get right;urgent;0
+1270;serious need phone now;urgent;0
+1271;get late need car now;urgent;0
+1272;want home now car;urgent;0
+1273;car realli import pleas hurri;urgent;0
+1274;need car immedi;urgent;0
+1275;servic trash leav right now;urgent;0
+1276;get rest toolbox right now;urgent;0
+1277;need make tablet work need now;urgent;0
+1278;help fix internet asap;urgent;0
+1279;hurri chang paint wall everyon come;urgent;0
+1280;pipe break fix now;urgent;0
+1281;get wrong order chang now;urgent;0
+1282;help find problem asap;urgent;0
+1283;give locat fast;urgent;0
+1284;need passport readi asap;urgent;0
+1285;want drive closest hospit real fast;urgent;0
+1286;faster need get home now;urgent;0
+1287;want call polic urgent;urgent;0
+1288;give right locat now;urgent;0
+1289;need ticket fast show start;urgent;0
+1290;finish job fast deal;urgent;0
+1291;get email address hurri;urgent;0
+1292;need bui ticket fast sold;urgent;0
+1293;give enough time finish job hurri;urgent;0
+1294;need connect manag right now urgent;urgent;0
+1295;stop wast time stuff hurri;urgent;0
+1296;server wai slow not finish work time make work faster realli urgent;urgent;0
+1297;take leav need drop somewher realli import need get quickli;urgent;0
+1298;send file need quick;urgent;0
+1299;idea much wast time hurri;urgent;0
+1300;dude next bu come minut hurri;urgent;0
+1301;problem not see contact devic pleas fix fast;urgent;0
+1302;need wai take much time need get real fast;urgent;0
+1303;hope fix electr asap finish job;urgent;0
+1304;come realli fast need help laptop;urgent;0
+1305;wrong cost much monei need faster hurri;urgent;0
+1306;not clue pleas come help urgent;urgent;0
+1307;need take medicin pleas drive home faster;urgent;0
+1308;file realli import make faster;urgent;0
+1309;meet get file fast;urgent;0
+1310;hate sai wast time need now manag visit real soon;urgent;0
+1311;take backpack give sam need right now;urgent;0
+1312;not finish program without internet pleas fix fast;urgent;0
+1313;not care much cost need right now;urgent;0
+1314;take shortcut pleas need get friend real fast;urgent;0
+1315;camera not work need film video asap;urgent;0
+1316;need car fix tomorrow;urgent;0
+1317;come two dai readi give work;urgent;0
+1318;need file two week;urgent;0
+1319;order must dai;urgent;0
+1320;order hour;urgent;0
+1321;make everyth clean owner come home min;urgent;0
+1322;deliv order minut;urgent;0
+1323;dai come back take phone;urgent;0
+1324;must minut;urgent;0
+1325;need get minut;urgent;0
+1326;second leav kick;urgent;0
+1327;tell must second;urgent;0
+1328;need monei readi dai;urgent;0
+1329;ambul must second;urgent;0
+1330;make coffe come offic minut;urgent;0
+1331;wash car back minut;urgent;0
+1332;fix watch dai;urgent;0
+1333;want fix phone hour;urgent;0
+1334;tablet need fix hour;urgent;0
+1335;laptop break work fix dai;urgent;0
+1336;want rent hous come find on todai;urgent;0
+1337;bill high hous find anoth on dai;urgent;0
+1338;phone batteri die must call parent second;urgent;0
+1339;volcano explod hour;urgent;0
+1340;mom hospit need get minut;urgent;0
+1341;timer wrong need get readi hour;urgent;0
+1342;oop drop order make anoth on least minut;urgent;0
+1343;need hurri shop not stai open 2424 close minut;urgent;0
+1344;watch break need someon fix dai parti;urgent;0
+1345;fool break find anoth hour;urgent;0
+1346;must now repair phone;urgent;0
+1347;need phone now;urgent;0
+1348;not wait solv problem press;urgent;0
+1349;spend week wait technician correct failur much;urgent;0
+1350;servic bad angri;urgent;0
+1351;need urgent repair phone;urgent;0
+1352;call polic now not bear acceler;urgent;0
+1353;problem on product need quickli exchang amazon not exchang;urgent;0
+1354;wait urgent answer request rush;urgent;0
+1355;not speak phone angri;urgent;0
+1356;good morn;noturgent;1
+1357;hello;noturgent;1
