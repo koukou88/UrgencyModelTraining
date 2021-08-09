@@ -219,7 +219,7 @@ python-socketio==3.1.2
 python-telegram-bot==11.1.0
 pytz==2018.9
 PyWavelets==1.0.0
-pywin32==223
+pywin32==301
 pywinpty==0.5.5
 PyYAML==5.1
 pyzmq==17.1.2
